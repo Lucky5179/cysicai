@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
         </div>
         <div class="footer-social-container">
           <a
-            href="https://x.com/"
+            href="https://x.com/cysicai_erc20"
             target="_blank"
             class="footer-socials w-inline-block"
           >
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
             </div>
           </a>
           <a
-            href="https://t.me/"
+            href="https://t.me/cysicai_erc20"
             target="_blank"
             class="footer-socials w-inline-block"
           >
