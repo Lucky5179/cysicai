@@ -162,7 +162,7 @@ document.addEventListener("DOMContentLoaded", function () {
           </div>
         </a>
         <a
-          href="http://app.cysicai.org"
+          href="https://app.cysicai.vip"
           class="cta-contact w-inline-block"
         >
           <div class="contact-cta">Launch App</div>
@@ -201,7 +201,7 @@ document.addEventListener("DOMContentLoaded", function () {
         >
           <div class="container-2 w-container">
             <a
-              href="http://app.cysicai.org"
+              href="https://app.cysicai.vip"
               class="cta-contact w-inline-block"
             >
               <div class="contact-cta">Contact</div>
@@ -297,7 +297,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 >Careers</a
               >
               <a
-                href="http://app.cysicai.org"
+                href="https://app.cysicai.vip"
                 class="nav-menu-text w-nav-link"
                 >Contact Us</a
               >
