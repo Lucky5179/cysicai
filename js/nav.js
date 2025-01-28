@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
               </div>
               <nav class="dropdown-list w-dropdown-list">
                 <a
-                  href="https://docs.cysicai.org"
+                  href="https://docs.cysicai.vip"
                   class="dropdown-link w-dropdown-link"
                   >Docs</a
                 >
@@ -282,7 +282,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 </div>
                 <nav class="dropdown-list-2 w-dropdown-list">
                   <a
-                    href="https://docs.cysicai.org"
+                    href="https://docs.cysicai.vip"
                     class="dropdown-link-4 w-dropdown-link"
                     >Docs</a
                   >
